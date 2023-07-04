@@ -3,7 +3,7 @@ import mysql.connector
 # Configurações de conexão com o banco de dados
 config = {
     'user': 'root',
-    'password': '123456',
+    'password': 'sua_senha_aqui',
     'host': 'localhost'
 }
 
