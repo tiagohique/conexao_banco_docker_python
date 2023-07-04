@@ -10,7 +10,7 @@ config = {
 try:
     # Estabelece a conexão com o banco de dados
     connection = mysql.connector.connect(**config)
-    print("Conectado")
+    print("Conectado ao banco local do tiago")
     
     # Faça qualquer operação desejada com o banco de dados aqui
     
